@@ -1,0 +1,11 @@
+﻿  Source.c
+D:\уник\информатика\Lab12_4\Source.c(6,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,30): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,35): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,40): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,50): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,55): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,60): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,65): warning C4305: инициализация: усечение из "double" в "float"
+D:\уник\информатика\Lab12_4\Source.c(6,70): warning C4305: инициализация: усечение из "double" в "float"
+  Lab12_4.vcxproj -> D:\уник\информатика\Lab12_4\x64\Debug\Lab12_4.exe
